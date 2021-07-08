@@ -1,0 +1,13 @@
+{
+  "name": "alexkucheryuk/phpspreadsheet-bug",
+  "require": {
+    "phpoffice/phpspreadsheet": "^1.18"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Alexander Kucheryuk",
+      "email": "3331946+alexkuc@users.noreply.github.com"
+    }
+  ]
+}
